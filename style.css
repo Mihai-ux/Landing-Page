@@ -1,0 +1,133 @@
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    background-color: #f9faf8;
+  }
+  
+  .header {
+    background-color: #1f2937;
+    padding: 20px 0;
+  }
+  
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 150px;
+  }
+  
+  .Logo {
+    font-size: 24px;
+    color: #f9faf8;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .navbar li {
+    font-size: 18px;
+    color: #e5e7eb;
+  }
+  
+  .hero {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 150px;
+    color: white;
+  }
+  
+  .website h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
+  
+  #secondary {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .button1 {
+    background-color: #3882f6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .pagani {
+    width: 300px;
+    height: auto;
+  }
+  
+  .title {
+    text-align: center;
+    margin: 50px 0 20px;
+  }
+  
+  .info-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    padding: 0 100px;
+  }
+  
+  .info-block {
+    text-align: center;
+    max-width: 150px;
+  }
+  
+  .third {
+    background-color: #e5e7eb;
+    padding: 50px 100px;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .third footer {
+    margin-top: 10px;
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  .fourth {
+    background-color: #3882f6;
+    color: white;
+    padding: 40px 100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cta-box {
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 900px;
+  }
+  
+  .cta-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1f2937;
+    color: #e5e7eb;
+  }
+  
